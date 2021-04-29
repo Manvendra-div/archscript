@@ -1,2 +1,1 @@
-sudo pacman -S gnome-terminal
-
+sudo pacman -S xterm
