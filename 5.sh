@@ -1,1 +1,1 @@
-sudo pacman -S feh
+sudo pacman -Sy glibc
